@@ -1,0 +1,99 @@
+.tab {
+width: 200px;
+background-color: #265098;
+color: rgb(243, 237, 237);
+padding: 20px;
+height: 100vh;
+position: fixed;
+top: 0;
+left: 0;
+}
+.nav a {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    color:white;
+    text-decoration: none;
+   
+}
+.search button {
+    border: none;
+    background: none;
+    padding: 5px;
+    outline: none;
+    border-radius: 5px;
+}
+.my {
+    width: 300px;
+        height: 60px;
+        background-color: rgb(203, 105, 29);
+        position: absolute;
+        right: 30px;
+        top: 10px;
+        border-radius: 20px;
+        width: 100px;
+}
+.search {
+    width: 300px;
+    height: 60px;
+    background-color: rgb(145, 104, 52);
+    position: absolute;
+    left: 250px;
+    top: 10px;
+    border-radius: 20px;
+}
+.box1 {
+    width: 250px;
+    height: 100px;
+    background-color: rgb(54, 145, 52);
+    position: absolute;
+    left: 250px;
+    top: 100px;
+    border-radius: 20px;
+}
+.box2 {
+    width: 250px;
+    height: 100px;
+    background-color: rgb(6, 12, 6);
+    position: absolute;
+    left: 510px;
+    top: 100px;
+    border-radius: 20px;
+}
+.box3 {
+    width: 250px;
+    height: 100px;
+    background-color:rgb(239, 6, 6);
+    position: absolute;
+    left: 770px;
+    top: 100px;
+    border-radius: 20px;
+}
+.box4 {
+    width: 250px;
+    height: 100px;
+    background-color:rgb(185, 239, 6);
+    position: absolute;
+    left: 1030px;
+    top: 100px;
+    border-radius: 20px;
+}
+.box5 {
+    width: 800px;
+    height: 400px;
+    background-color:rgb(15, 4, 4);
+    position: absolute;
+    left: 250px;
+    top: 300px;
+    border-radius: 20px;
+}
+.box6 {
+    width: 450px;
+    height: 400px;
+    background-color:rgb(152, 17, 17);
+    position: absolute;
+    left: 1060px;
+    top: 300px;
+    border-radius: 20px;
+}
